@@ -1,0 +1,35 @@
+
+******************************
+Starting a new run
+******************************
+
+******************************
+move (0, 6)
+******************************
+moves (0, 6)(1, 1) - Jonathan wins
+moves (0, 6)(1, 2) - Jonathan wins
+moves (0, 6)(2, 2) - Jonathan wins
+******************************
+move (0, 7)
+******************************
+moves (0, 7)(0, 3) - Jonathan wins
+moves (0, 7)(0, 4) - Jonathan wins
+moves (0, 7)(1, 3) - Jonathan wins
+moves (0, 7)(1, 5) - Jonathan wins
+moves (0, 7)(2, 3) - Jonathan wins
+moves (0, 7)(2, 5) - Jonathan wins
+******************************
+move (1, 6)
+******************************
+moves (1, 6)(3, 0) - Jonathan wins
+moves (1, 6)(3, 1) - Jonathan wins
+moves (1, 6)(4, 1) - Jonathan wins
+moves (1, 6)(5, 0) - Jonathan wins
+******************************
+move (2, 6)
+******************************
+moves (2, 6)(6, 1) - Todd wins
+moves (2, 6)(7, 1) - Todd wins
+moves (2, 6)(7, 2) - Todd wins
+moves (2, 6)(8, 2) - Todd wins
+moves (6, 7)(1, 3) - Stephen wins
